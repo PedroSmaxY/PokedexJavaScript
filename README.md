@@ -18,3 +18,5 @@ Result:
 If you want to contribute to the Pokédex, you can do so by sending a pull request. Please make sure that your tests pass before sending a pull request.
 
 Thanks for using the Pokédex!
+
+Note: This Pokédex only includes information about Pokémon up to Gen VIII.
