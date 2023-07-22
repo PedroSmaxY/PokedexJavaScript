@@ -1,8 +1,14 @@
 # PokedexJavaScript
 
-PokedexJavaScript is a web application that utilizes the PokéAPI to provide comprehensive information about Pokémon up to Generation VIII.
+PokedexJavaScript is a web application that provides quick access to basic information about Pokémon up to Generation VIII. 
+The application utilizes the PokéAPI to retrieve Pokémon names and numbers.
 
-# Screenshots
+## Features
+
+- Search for Pokémon by name and number.
+- The Pokedex opens with Bulbasaur displayed as the first Pokémon.
+
+## Screenshots
 
 
 ![image](https://github.com/PedroSmaxY/PokedexJavaScript/assets/127573080/d923fd0c-2b9c-4964-b504-8843750d961f) | First load |
@@ -12,15 +18,14 @@ PokedexJavaScript is a web application that utilizes the PokéAPI to provide com
 
 ![image](https://github.com/PedroSmaxY/PokedexJavaScript/assets/127573080/992d1cfb-b817-4f9c-962e-e1e0fbe24158) | Pikachu |
 
-# Setup Instructions
+## Setup Instructions
 To run the Pokédex locally, follow these steps:
-
-# Clone the repository:
+### 1. Clone the repository:
 `git clone https://github.com/PedroSmaxY/PokedexJavaScript.git`
 
-Launch the application by opening index.html in your preferred web browser.
+### 2. Launch the application by opening index.html in your preferred web browser.
 
-# Contributing
+## Contributing
 We welcome contributions to enhance the Pokédex. If you want to contribute, consider the following areas:
 
 - Adding support for additional generations of Pokémon.
