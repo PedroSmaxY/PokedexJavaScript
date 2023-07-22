@@ -1,22 +1,31 @@
 # PokedexJavaScript
 
-This is a web application that uses the PokéAPI to provide information about Pokémon.
-
-You can search for Pokémon by name and number. The first Pokémon on the page is Bulbasaur, number 001.
+PokedexJavaScript is a web application that utilizes the PokéAPI to provide comprehensive information about Pokémon up to Generation VIII.
 
 # Screenshots
 
 
 ![image](https://github.com/PedroSmaxY/PokedexJavaScript/assets/127573080/d923fd0c-2b9c-4964-b504-8843750d961f) | First load |
 
-# Results:
+## Results:
+
 
 ![image](https://github.com/PedroSmaxY/PokedexJavaScript/assets/127573080/992d1cfb-b817-4f9c-962e-e1e0fbe24158) | Pikachu |
 
+# Setup Instructions
+To run the Pokédex locally, follow these steps:
+
+# Clone the repository:
+`git clone https://github.com/PedroSmaxY/PokedexJavaScript.git`
+
+Launch the application by opening index.html in your preferred web browser.
 
 # Contributing
-If you want to contribute to the Pokédex, you can do so by sending a pull request. Please make sure that your tests pass before sending a pull request.
+We welcome contributions to enhance the Pokédex. If you want to contribute, consider the following areas:
 
-Thanks for using the Pokédex!
+- Adding support for additional generations of Pokémon.
+- Improving the user interface to enhance user experience.
+- Optimizing API calls for better performance.
+- Adding Pókemon types.
 
-Note: This Pokédex only includes information about Pokémon up to Gen VIII.
+Before submitting a pull request, please ensure that your changes pass all relevant tests.
