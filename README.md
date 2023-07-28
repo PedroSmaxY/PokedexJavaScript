@@ -1,7 +1,7 @@
 # PokedexJavaScript
 
 PokedexJavaScript is a web application that provides quick access to basic information about Pokémon up to Generation VIII. 
-The application utilizes the PokéAPI to retrieve Pokémon names and numbers.
+The application utilizes the PokéAPI to retrieve Pokémon sprites, names and numbers.
 
 ## Features
 
